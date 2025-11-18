@@ -38,6 +38,6 @@ entries:
     sources:
     - https://github.com/bitnami/charts/tree/main/bitnami/postgresql
     urls:
-    - https://hedwigorieba.github.io/DTLCustomHelmRepositoty.git/postgresql-17.0.1.tgz
+    - https://hedwigorieba.github.io/DTLCustomHelmRepositoty/postgresql-17.0.1.tgz
     version: 17.0.1
 generated: "2025-11-18T19:17:30.354715+03:00"
